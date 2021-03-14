@@ -2,6 +2,6 @@
 versi="1.1"
 status="open"
 notif="\n ${p}[${k}Note${p}] : ${h}Update Tersedia!!!\n"
-pesan="\n ${p}[${k}Note${p}] : ${h}Halo gan, Gimana Toolsnya? jika kalian\n merasa terbantu, donate ke alfianhakim \n"
+pesan="\n ${p}[${k}Note${p}] : ${h}Halo gan, Gimana Toolsnya? jika kalian\n merasa terbantu dengan tools ini\n anda bisa donate Gopay: 089561269060. \n"
 
 #pesan="\n ${p}[${k}Note${p}] : Halo gan, Gimana Toolsnya ? jika kalian\n ss"
