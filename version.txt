@@ -2,7 +2,6 @@
 versi="1.1"
 status="open"
 notif="\n ${p}[${k}Note${p}] : ${h}Update Tersedia!!!\n"
-pesan="\c ${p}[${k}Note${p}] : Halo gan, Gimana Toolsnya \n"
+pesan="\n ${p}[${k}Note${p}] : Halo gan, Gimana Toolsnya? \n"
 
-# "\c"
 # " ${p}[${k}Note${p}] : Halo gan, Gimana Toolsnya ?? Bagus ga ??\n"
