@@ -1,5 +1,5 @@
 #Status: open,update,close.
-versi="1.1"
+versi="1.2"
 status="open"
 notif="\n ${p}[${k}Note${p}] : ${h}Update Tersedia!!!\n"
 pesan=""
