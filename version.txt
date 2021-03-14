@@ -1,7 +1,8 @@
 #Status: open,update,close.
 versi="1.1"
 status="open"
-notif="\n ${p}[${k}Note${p}] : ${h}Update Tersedia!!!\n"
-pesan="\n ${p}[${k}Note${p}] : ${h}Halo gan, Gimana Toolsnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay dan Dana ${k}089561269060. \n"
+notif="\n ${p}[${k}Note${p}] : ${h}Update Tersedia Bro !!!\n"
+pesan="\n ${p}[${k}Note${p}] : ${h}Halo gan, Gimana Toolsnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay dan Dana ${k}0895612690606. \n"
 
-#pesan="\n ${p}[${k}Note${p}] : Halo gan, Gimana Toolsnya ? jika kalian\n ss"
+
+#pesan="\n ${p}[${k}Note${p}] : ${h}Halo gan, Gimana Toolsnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay dan Dana ${k}0895612690606. \n"
