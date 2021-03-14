@@ -2,5 +2,5 @@
 versi="1.2"
 status="open"
 notif="\n ${p}[${k}Note${p}] : ${h}Update Tersedia!!!\n"
-pesan=""
+pesan="\c"
 
