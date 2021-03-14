@@ -1,3 +1,4 @@
 #Status: open,update,close.
 versi="2"
 status="open"
+notif="\n ${p}[${k}Note${p}] : Update ${h}Tersedia!!!\n"
