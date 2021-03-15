@@ -3,5 +3,5 @@ versi="1.1"
 status="open"
 notif="\n ${p}[${k}Note${p}] : ${h}UPDATE TERSEDIA BRO !!!\n"
 
-pesan=""
-#pesan="\n ${p}[${k}Note${p}] : ${h}Halo gan, Gimana Toolsnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay atau Dana ${k}0895612690606. \n"
+#pesan=""
+pesan="\n ${p}[${k}Note${p}] : ${h}Halo gan, Gimana Toolsnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay atau Dana ${k}0895612690606. \n"
