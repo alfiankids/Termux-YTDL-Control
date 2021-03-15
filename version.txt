@@ -1,4 +1,4 @@
-#Status: open,update,close.
+#Status: open,update,close,suicide.
 versi="1.1"
 status="open"
 notif="\n ${p}[${k}Note${p}] : ${h}UPDATE TERSEDIA BRO !!!\n"
