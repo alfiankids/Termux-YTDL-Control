@@ -3,8 +3,8 @@ versi="1.1"
 status="open"
 notif="\n ${p}[${k}Note${p}] : ${h}UPDATE TERSEDIA BRO !!!\n"
 
-pesan="\n ${p}[${k}Notif${p}] : ${h}Hallo, Gimana Kabarnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay atau Dana ${k}0895612690606.\n"
-#pesan="\n ${p}[${k}Notif${p}] : ${h}\e[4mSelalu Ingat Pesan Ibu Ya\e[24m :)\n"
+#pesan="\n ${p}[${k}Notif${p}] : ${h}Hallo, Gimana Kabarnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay atau Dana ${k}0895612690606.\n"
+pesan="\n ${p}[${k}Notif${p}] : ${h}\e[4mSelalu Ingat Pesan Ibu Ya \e[24m :)\n"
 
 
 #make="mkdir -p /sdcard/Bokep3gp"
