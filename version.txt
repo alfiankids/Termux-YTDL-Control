@@ -1,7 +1,7 @@
 #Status: open,update,close.
 versi="1.2"
 status="open"
-notif="\n ${p}[${k}Note${p}] : ${h}UPDATE TERSEDIA BRO !!!\n"
+notif="\n ${p}[${k}Note${p}] : ${k}UPDATE ${h}TERSEDIA ${k}BRO !!!\n"
 
 #pesan=""
 #pesan="\n ${p}[${k}Notif${p}] : ${h}Hallo, Gimana Kabarnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay atau Dana ${k}0895612690606.\n"
