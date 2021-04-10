@@ -3,8 +3,8 @@ versi="1.1"
 status="open"
 notif="\n ${p}[${k}Note${p}] : ${h}UPDATE TERSEDIA BRO !!!\n"
 
-pesan="\n ${p}[${k}Notif${p}] : ${h}Hallo, Gimana Kabarnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay atau Dana ${k}0895612690606.\n"
-#pesan="\n ${p}[${k}Notif${p}] : ${h}Selalu Ingat Pesan Ibu Ya :)\n"
+#pesan="\n ${p}[${k}Notif${p}] : ${h}Hallo, Gimana Kabarnya? jika kalian\n merasa terbantu dgn tools ini anda bisa donasi\n seikhlasnya ke Gopay atau Dana ${k}0895612690606.\n"
+pesan="\n ${p}[${k}Notif${p}] : ${h}Selalu Ingat Pesan Ibu Ya :)\n"
 
 #make="mkdir -p /sdcard/Bokep3gp"
 #make="touch /sdcard/Youtube-DL/'Tools By Alfian'$'\342\200''.DiK'"
